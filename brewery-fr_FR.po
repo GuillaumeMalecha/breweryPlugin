@@ -1,0 +1,64 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Brewery\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-02-15 18:22+0000\n"
+"PO-Revision-Date: 2021-02-15 18:27+0000\n"
+"Last-Translator: \n"
+"Language-Team: Français\n"
+"Language: fr_FR\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.0; wp-5.6.1\n"
+"X-Domain: brewery"
+
+#: brewery.php:20
+msgid "Ajouter"
+msgstr "Ajouter"
+
+#: brewery.php:19
+msgid "Ajouter une brasserie"
+msgstr "Ajouter une brasserie"
+
+#: brewery.php:24
+msgid "Aucune brasserie"
+msgstr "Aucune brasserie"
+
+#: brewery.php:25
+msgid "Aucune brasserie dans la corbeille"
+msgstr "Aucune brasserie dans la corbeille"
+
+#: brewery.php:15
+msgid "Brasserie"
+msgstr "Brasserie"
+
+#: brewery.php:14 brewery.php:16
+msgid "Brasseries"
+msgstr "Brasseries"
+
+#. Name of the plugin
+msgid "Brewery"
+msgstr "Brewery"
+
+#: brewery.php:22
+msgid "Mettre à jour la brasserie"
+msgstr "Mettre à jour la brasserie"
+
+#: brewery.php:21
+msgid "Modifier la brasserie"
+msgstr "Modifier la brasserie"
+
+#: brewery.php:23
+msgid "Rechercher une brasserie"
+msgstr "Rechercher une brasserie"
+
+#: brewery.php:17
+msgid "Toutes les brasseries"
+msgstr "Toutes les brasseries"
+
+#: brewery.php:18
+msgid "Voir la brasserie"
+msgstr "Voir la brasserie"
